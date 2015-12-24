@@ -331,7 +331,7 @@
             "source": "time_yearmonth"
           }
         },
-        "primaryKey": "label",
+        "primaryKey": ["year","month","day"],
         "dimensionType": "datetime"
       },
       "cofog2": {
