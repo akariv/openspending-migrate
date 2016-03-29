@@ -1,5 +1,7 @@
 {
   "description": "The Country Regional Analysis published by HM Treasury (2010 version).\r\n\r\nSource data can be found in the [CKAN data package](http://ckan.net/package/ukgov-finances-cra)",
+  "owner": "__testing",
+  "author": "UK Gov Official <treasury-official@gov.uk>",
   "resources": [
     {
       "schema": {
